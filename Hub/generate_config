@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 cat <<_EOF
 {
   "host": "${GRID_HUB_HOST}",
